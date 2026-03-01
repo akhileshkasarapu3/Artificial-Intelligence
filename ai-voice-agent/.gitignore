@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Go
+bin/
+pkg/
+*.exe
+*.test
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
